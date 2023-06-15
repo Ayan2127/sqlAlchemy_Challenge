@@ -1,6 +1,6 @@
 # sqlAlchemy_Challenge
 
-Created session queries from sqlalchemy to generate specified climate data using filters.
+Created session queries from sqlalchemy to generate specific climate data using filters.
 
 Calculated min, max, and avg temperatures.
 
